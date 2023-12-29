@@ -8,7 +8,7 @@ import userImage from '../images/user.jpg'
 export const HeroSection = () => {
    
   return (
-    <div className='hero-section '>
+    <div className='hero-section flex-wrap '>
     <div className="faded-text">Ritesh Wadhwani</div>
     <div className='hero-section-left'>
         <div className='hero-section-heading'>Hi! Ritesh Wadhwani</div>
