@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export const Navbar = () => {
   return (
-    <div className="navbar">
+    <div className="navbar flex-wrap">
         <div className='logo-container'>
         <img src={R} alt='name' className='logo'></img>
         <div className='logo-text'>itesh Wadhwani</div>
