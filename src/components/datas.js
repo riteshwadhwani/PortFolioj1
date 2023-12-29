@@ -26,7 +26,7 @@ export const datas = [
         ],
         heading:"GifGenAuth",
         subHeading:"GifGenAuth is an innovative GIF generator with secure user authentication powered by Firebase. ",
-        projectURL:'https://master--admirable-sunflower-2875ae.netlify.app/',
+        projectURL:'https://gifgenerators.netlify.app/',
         ide:"Project"
         
     },
